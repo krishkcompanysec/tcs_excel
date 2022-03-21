@@ -1,0 +1,5 @@
+slno,Name,Deactivated,Deactivation_Date,Reason
+1,John,Yes,,ABC
+2,Steve,Yes,12/3/2022,EFG
+3,Mike,,,
+4,Charles,No,,
